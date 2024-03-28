@@ -1,0 +1,21 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  /* bottom: 1.25rem; */
+  top: 55%;
+  left: 15%;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #fff;
+  text-align: center;
+  transform: translateY(-50%);
+}
+.carousel {
+  position: relative;
+  filter: grayscale(60%);
+}
